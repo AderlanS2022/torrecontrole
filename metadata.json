@@ -1,0 +1,7 @@
+{
+  "name": "Folha Inteligente Pro",
+  "description": "Sistema empresarial de folha de pagamento inteligente, alertas operacionais e gestão de ponto.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
